@@ -1,0 +1,7 @@
+#Connect:
+basemount Basespace/
+
+#Mounting BaseSpace account.
+#To unmount, run: 
+
+basemount --unmount /home/matt/Data/Basespace
